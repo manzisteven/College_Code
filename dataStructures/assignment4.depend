@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1414597346 source:c:\users\smanzi\desktop\cmu\assignment4\bintree.cpp
+	"BinTree.h"
+	<iostream>
+	"Element.h"
+	<fstream>
+
+1414597196 c:\users\smanzi\desktop\cmu\assignment4\bintree.h
+	"Element.h"
+	<iostream>
+	<fstream>
+	"Element.h"
+
+1414450706 c:\users\smanzi\desktop\cmu\assignment4\element.h
+	<string>
+	<sstream>
+	<iostream>
+
+1414451386 source:c:\users\smanzi\desktop\cmu\assignment4\element.cpp
+	"Element.h"
+	<iostream>
+	<string>
+
+1414465207 source:c:\users\smanzi\desktop\cmu\assignment4\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1414463937 c:\users\smanzi\desktop\cmu\assignment4\linkedlist.h
+	"Element.h"
+	<exception>
+	<string>
+
+1414596829 source:c:\users\smanzi\desktop\cmu\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<sstream>
+	<vector>
+	"Element.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+	"BinTree.h"
+
+1414463937 c:\users\smanzi\desktop\cmu\assignment4\stack.h
+	"Element.h"
+	"LinkedList.h"
+
+1414454198 c:\users\smanzi\desktop\cmu\assignment4\queue.h
+	"Element.h"
+	"LinkedList.h"
+
+1414458006 source:c:\users\smanzi\desktop\cmu\assignment4\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1414465207 source:c:\users\smanzi\desktop\cmu\assignment4\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1414597346 source:c:\users\smanzi\desktop\codeblock\assignment4\bintree.cpp
+	"BinTree.h"
+	<iostream>
+	"Element.h"
+	<fstream>
+
+1414597196 c:\users\smanzi\desktop\codeblock\assignment4\bintree.h
+	"Element.h"
+	<iostream>
+	<fstream>
+	"Element.h"
+
+1414450706 c:\users\smanzi\desktop\codeblock\assignment4\element.h
+	<string>
+	<sstream>
+	<iostream>
+
+1414451386 source:c:\users\smanzi\desktop\codeblock\assignment4\element.cpp
+	"Element.h"
+	<iostream>
+	<string>
+
+1414465207 source:c:\users\smanzi\desktop\codeblock\assignment4\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1414463937 c:\users\smanzi\desktop\codeblock\assignment4\linkedlist.h
+	"Element.h"
+	<exception>
+	<string>
+
+1414596829 source:c:\users\smanzi\desktop\codeblock\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<sstream>
+	<vector>
+	"Element.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+	"BinTree.h"
+
+1414463937 c:\users\smanzi\desktop\codeblock\assignment4\stack.h
+	"Element.h"
+	"LinkedList.h"
+
+1414454198 c:\users\smanzi\desktop\codeblock\assignment4\queue.h
+	"Element.h"
+	"LinkedList.h"
+
+1414458006 source:c:\users\smanzi\desktop\codeblock\assignment4\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1414465207 source:c:\users\smanzi\desktop\codeblock\assignment4\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1414597346 source:c:\codeblock\assignment4\bintree.cpp
+	"BinTree.h"
+	<iostream>
+	"Element.h"
+	<fstream>
+
+1414597196 c:\codeblock\assignment4\bintree.h
+	"Element.h"
+	<iostream>
+	<fstream>
+	"Element.h"
+
+1414450706 c:\codeblock\assignment4\element.h
+	<string>
+	<sstream>
+	<iostream>
+
+1414451386 source:c:\codeblock\assignment4\element.cpp
+	"Element.h"
+	<iostream>
+	<string>
+
+1414465207 source:c:\codeblock\assignment4\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1414463937 c:\codeblock\assignment4\linkedlist.h
+	"Element.h"
+	<exception>
+	<string>
+
+1414596829 source:c:\codeblock\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<sstream>
+	<vector>
+	"Element.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+	"BinTree.h"
+
+1414463937 c:\codeblock\assignment4\stack.h
+	"Element.h"
+	"LinkedList.h"
+
+1414454198 c:\codeblock\assignment4\queue.h
+	"Element.h"
+	"LinkedList.h"
+
+1414458006 source:c:\codeblock\assignment4\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1414465207 source:c:\codeblock\assignment4\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1414602829 source:c:\users\smanzi\codeblock\assignment4\bintree.cpp
+	"BinTree.h"
+	<iostream>
+	"Element.h"
+	<fstream>
+	"LinkedList.h"
+
+1414619961 c:\users\smanzi\codeblock\assignment4\bintree.h
+	"Element.h"
+	<iostream>
+	<fstream>
+	"Element.h"
+	"LinkedList.h"
+
+1414450706 c:\users\smanzi\codeblock\assignment4\element.h
+	<string>
+	<sstream>
+	<iostream>
+
+1414451386 source:c:\users\smanzi\codeblock\assignment4\element.cpp
+	"Element.h"
+	<iostream>
+	<string>
+
+1414791672 source:c:\users\smanzi\codeblock\assignment4\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1414791672 c:\users\smanzi\codeblock\assignment4\linkedlist.h
+	"Element.h"
+	<exception>
+	<string>
+	<fstream>
+
+1414791672 source:c:\users\smanzi\codeblock\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<sstream>
+	<vector>
+	"Element.h"
+	"Stack.h"
+	"LinkedList.h"
+	"Queue.h"
+	"BinTree.h"
+
+1414463937 c:\users\smanzi\codeblock\assignment4\stack.h
+	"Element.h"
+	"LinkedList.h"
+
+1414454198 c:\users\smanzi\codeblock\assignment4\queue.h
+	"Element.h"
+	"LinkedList.h"
+
+1414458006 source:c:\users\smanzi\codeblock\assignment4\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1414465207 source:c:\users\smanzi\codeblock\assignment4\stack.cpp
+	"Stack.h"
+	<iostream>
+
