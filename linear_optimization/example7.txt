@@ -1,0 +1,3 @@
+Object Function: p = 2x + 6y+ z + 10w
+Constraint: x + y + 2z + 5w <= 40
+Constraint: 2x + y + 3z + 5w <= 10

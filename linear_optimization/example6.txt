@@ -1,0 +1,3 @@
+Object Function: p = 2x + 12y + z 
+Constraint: x + 9y+ z <= 40
+Constraint: 2x + 5y+ z <= 10
