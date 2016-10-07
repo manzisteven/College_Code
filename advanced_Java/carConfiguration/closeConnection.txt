@@ -1,0 +1,4 @@
+CarModel=Novel Ford
+CarMake=Ford
+BasePrice=18445
+Option1=Transmission

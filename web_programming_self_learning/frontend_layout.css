@@ -1,0 +1,117 @@
+fieldset.controls
+{
+    background-color: blue;
+    background-position: center;
+    text-align: center;
+    clear: left;
+}
+select.dropdown
+{
+    background-color: blue;
+    margin:0px 0px;
+    padding: 0;
+    text-align: center;
+    height: 40px;
+    color: white;
+}
+img.flag
+{
+    float:left;
+    margin-left: 80px;
+    border: 0px;
+    margin-top: 25px;
+    
+}
+p.government
+{
+    position: relative;
+    left: 30px;
+    border: 0px;
+    display:inline-block;
+    margin-right:40px;
+    font-weight: bold;
+	font-size: 20px;
+  
+}
+p.government_french
+{
+    
+    display:inline-block;
+    margin-right:700px;
+    font-weight: bold;
+	font-size: 20px;
+}
+
+div.controls {
+     display:inline-block;
+    
+     text-align: right;
+
+}
+input[type="text"] {
+  background-color: yellow;
+  
+}
+a.anchor
+{
+     margin-left: 1262px;
+     color: blue;
+}
+input[type="button"] {
+ background-color: yellow;
+  
+}
+#search {
+ height= 1px;
+ width= 1px;
+}
+h2.canada
+{
+	border-bottom: solid 2px red;
+    padding-bottom: 5px;
+	position: absolute;
+    width: 500px;
+	margin-left: 80px;
+	
+}
+
+p.flag_body 
+{
+	position: relative;
+	top: -20px;
+	margin-right:50px;
+	float: right;
+	clear: left;
+	
+	
+}
+p.summary
+{
+	position: relative;
+	top: 60px;
+	margin-left: 80px;
+}
+p.homePage
+{
+	 margin-left: 80px;
+}
+div.citizen1
+{
+	position: relative;
+	top: 185px;
+	display:inline-block;
+	left: 85px;
+}
+div.citizen2
+{
+    position: relative;
+	top: 205px;
+	display:inline-block;
+	left: 200px;
+}
+div.citizen3
+{
+    margin-left: 958px;
+	display:inline-block;
+	margin-top: 25px;
+}

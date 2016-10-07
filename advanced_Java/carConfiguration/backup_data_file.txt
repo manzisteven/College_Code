@@ -1,0 +1,13 @@
+CarName and price as well as number of properties : Focus Wagon ZTW : Ford : 18445 : 5
+Car properties: Transmission:  Brakes : Side impact air bags: Power moonroof : Color
+Properties_Options_Size: 2: 3 : 2 : 2 : 10
+TransmissionOptions: automatic : standard 
+TransmissionPrices in USD: 0 : 815
+BrakeOptions: standard : ABS : ABS with advance trac  
+BrakePrices in USD: 0 : 400 : 1625 
+AirbagOptions: selected : not selected
+AirbagPrice in USD: 350 : 0
+PowerMoonRoofOptions: selected : not selected
+PowerMoonRoofPrices in USD: 595 : 0
+ColorOptions: Fort Knox Gold Clearcoat Metallic : Liquid Grey Clearcoat Metallic : Infra-Red Clearcoat : Grabber Green Clearcoat Metallic : Sangria Red Clearcoat Metallic : French Blue Clearcoat Metallic : Twilight Blue Clearcoat Metallic : CD Silver Clearcoat Metallic : Pitch Black Clearcoat : Cloud 9 White Clearcoat
+COlorPrices in USD: 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 

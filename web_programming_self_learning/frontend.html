@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="frontend_layout.css"> 
+   <script src="events.js" type="text/javascript"></script>
+<script>
+document.getElementById('my_selection').onchange = function() {
+    window.location.href = this.children[this.selectedIndex].getAttribute('href');
+}
+</script>
+</head>
+
+<body>
+
+    <a href="http://www.w3schools.com" class="anchor">Francais</a> 
+     
+    <div class="head">
+        <img src="screenshots/canadian_flag.png"  class="flag" alt="Canadian flag" height="42" width="42"> 
+        <p class="government">
+             Government <br/> of Canada  
+        </p>
+        <p class="government_french">
+             Gouvernement <br/> du Canada 
+        
+        </p>
+        <div class="controls">
+        <input type="text" name="q"  value="Canada" /><input type="button" value="Go" onclick="showMessage();" />
+        
+        </div>
+     
+    
+    </div>
+     
+    <fieldset class="controls"> 
+    <select   name="Job category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option><font color=red>Jobs</font></option>  
+  <option value="https://www.youtube.com/"> Find a job</option>  
+  <option>Training</option>  
+    
+    </select>
+
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option >Travel</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option>Immigration</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option>Business</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>  
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option>Benefits</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option>Health</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select> 
+<select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 100px; ">
+  <option>Taxes</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>
+ <select name="Travel category" onchange="location = this.options[this.selectedIndex].value;" class="dropdown" style="width: 150px; ">
+  <option>More services</option> 
+  <option>Travel advice and advisories</option>  
+  <option>Canadian attractions, events and experiences</option>  
+  <option>Canadian passports</option>  
+    </select>  
+    </fieldset>
+<p class="homePage">
+<a href="http://www.w3schools.com">Home </a>     <img src="screenshots/arrow-right.jpg" alt="Smiley face" height="10" width="10">  <a href="http://www.google.com"><span id="immigration"> Immigration and citizenship </span></a>  
+    
+    </p>
+
+<p class="flag_body"><img src="screenshots/canadian_flag.png"  alt="Canadian flag" height="200" width="600"> </p>
+<h2 class="canada"> Canadian Citizenship</h2>
+<p class="summary"> Apply to become a Canadian citizen, prepare for the citizenship test and find <br/>out how you can resume or give up your Canadian citizenship.</p>
+
+	
+<div class= "citizen1">
+	 <a href="http://www.w3schools.com"> Apply for citizenship</a> 
+	 <p>
+	     Eligibility requirements, application steps and <br/> processing times for Canadian citizenship
+	 </p>
+	
+	
+	</div>
+
+	<div class="citizen2">
+	 <a href="http://www.w3schools.com">Prepare for the citizenship test</a> 
+	 <p>
+	 Study material and details about who has to take  <br/> this test, how to get a test date and what happens <br/> after you take the test
+	 </p>
+	
+	
+	</div>
+	
+	<div class="citizen3">
+	 <a href="http://www.w3schools.com">Get proof of citizenship</a> 
+	 <p>
+	 Applications and processing times for a citizenship  <br/> certificate and a list of documents accepted as  <br/> proof of Canadian citizenship
+	 </p>
+	
+	
+	</div>
+	
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
